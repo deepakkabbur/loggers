@@ -1,2 +1,2 @@
 # loggers
-Package for loggers
+Package for logging
